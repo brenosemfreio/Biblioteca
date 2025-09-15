@@ -29,26 +29,26 @@ Aqui você pode navegar pelos livros, filtrar por gênero, ver detalhes de cada 
 ---
 
 ## Estrutura do projeto
-/
-├── index.html # Página inicial
 
-├── catalogo.html # Catálogo com filtros
+├── index.html → Página inicial
 
-├── book.html # Página de cada livro
+├── catalogo.html → Catálogo com filtros
 
-├── contato.html # Página de contato
+├── book.html → Página de cada livro
 
-├── style.css # Estilo do site
+├── contato.html → Página de contato
 
-├── script.js # Catálogo, contato e navegação
+├── style.css → Estilo do site
 
-├── book.js # Dados + renderização dos livros
+├── script.js → Catálogo, contato e navegação
 
-├── img/ # Capas, logos, ícones
+├── book.js → Dados + renderização dos livros
 
-├── audio/ # Áudios das sinopses
+├── img/ → Capas, logos, ícones
 
-└── icon/ # Favicons
+├── audio/ → Áudios das sinopses
+
+└── icon/ → Favicons
 
 
 ---
